@@ -49,8 +49,6 @@ function App() {
     },
   ];
 
-  const meuArray = ["Pedro", "Vitor", "Roebrt"];
-
   return (
     <div className="App">
       <img src={bgBottom} alt="bgBottom" className="bgBottom" />
